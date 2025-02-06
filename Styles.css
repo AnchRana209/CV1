@@ -1,0 +1,42 @@
+.heading1{
+    text-align: center;
+    color: blue;
+}
+.heading2{
+    text-align: center;
+}
+.container{
+    margin: 50px auto;
+    width: 450px;
+    background: white;
+    padding: 25px 60px;
+    border-radius: 20px;
+  box-shadow: 0 0 50px aqua;
+}
+
+.line{
+    //text-decoration: underline 2px;
+    font-size: large;
+    padding-left: 100px;
+}
+.btn{
+    padding: 8px 12px;
+    background-color: rgb(12, 34, 231);
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    width: 30%;
+ }
+ .frm{
+    text-align: center;
+ }
+ .igm{
+   margin-left: 110px;
+ }
+ body{
+    border: 20px;
+ }
+ body{
+    background: url(image.jpg)no-repeat;
+ }
